@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/counterh3/numbers_plate6"
+	"$selfillum"	"1"
+	"$ignorez"	"1"
+	"$model"		"1"
+}

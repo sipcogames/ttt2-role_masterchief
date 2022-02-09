@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/chief_armsh3/spartan_arm"
+	"$bumpmap"	"models/chief_armsh3/spartan_arm_normal"
+	"$phong"		 "1"
+	"$phongexponent"			"5"			
+	"$phongboost"				"1.0"
+	"$phongfresnelranges"		"[0 0.5 1]"
+}

@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/halo3/fp/efp_arms_x"
+	"$bumpmap" "models/halo3/fp/efp_arms_zbump"
+	"$normalmapalphaenvmapmask" 1
+	"$nodecal" 1
+
+	"$detail" "models/halo3/masterchief_detail"
+	"$detailblendfactor" 1
+	"$detailblendmode" 0
+	"$detailscale" 10
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.025 0.025 0.025]"
+
+	"$phong" 1
+	"$phongexponent" 10
+	"$phongboost" 1
+	"$phongfresnelranges" "[1 1 1]"
+}

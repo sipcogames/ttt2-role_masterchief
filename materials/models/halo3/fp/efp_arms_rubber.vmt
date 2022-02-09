@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/halo3/fp/efp_arms_x"
+	"$bumpmap" "models/halo3/fp/efp_arms_zbump"
+	"$nodecal" 1
+
+	"$detail" "models/halo3/fp/rubber"
+	"$detailblendfactor" 1
+	"$detailblendmode" 0
+	"$detailscale" 20
+
+	"$phong" 1
+	"$phongexponent" 5
+	"$phongboost" 1
+	"$phongfresnelranges" "[1 1 1]"
+	"$phongtint" "[0.3 0.45 0.7]"
+}

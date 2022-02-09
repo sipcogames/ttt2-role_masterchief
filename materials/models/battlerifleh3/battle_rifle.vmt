@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/battlerifleh3/battle_rifle"
+	"$bumpmap"	 	"models/battlerifleh3/battle_rifle_bump"
+	"$detail"			"models/battlerifleh3/gun_detail"
+	"$detailblendmode"		"4"
+	"$selfillum"	 "1"
+    	"$selfillummask"		"models/battlerifleh3/battle_rifle_illum"
+	$phong 1
+	$phongboost 6
+	$phongfresnelranges "[0 0.5 1]"
+	$phongalbedotint 1
+
+	$rimlight               1
+	$rimlightexponent       40
+	$rimlightboost        3
+
+}
