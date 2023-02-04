@@ -51,7 +51,7 @@ SWEP.Kind = WEAPON_HEAVY
 
 -- If AutoSpawnable is true and SWEP.Kind is not WEAPON_EQUIP1/2, then this gun can
 -- be spawned as a random weapon.
-SWEP.AutoSpawnable = true
+SWEP.AutoSpawnable = false
 
 -- The AmmoEnt is the ammo entity that can be picked up when carrying this gun.
 SWEP.AmmoEnt = "item_ammo_smg1_ttt"
